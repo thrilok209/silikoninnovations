@@ -1161,7 +1161,7 @@ h1.intro-header::before {
   width: 145.1px;
   height: 62px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 145.1px 65px;
+  background-size: 145.1px 57px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -2429,9 +2429,9 @@ footer ul a:visited {
   outline: 0;
   border: none;
   width: 93px;
-  height: 21px;
+  height: 43px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 93px 21px;
+  background-size: 93px 43px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
