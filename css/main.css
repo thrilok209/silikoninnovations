@@ -1473,7 +1473,14 @@ h1.intro-header::before {
   color: #ffffff;
   margin-bottom: 9rem;
 }
-
+.home-content-left h2 {
+  font-family: "montserrat-regular", sans-serif;
+  font-size: 3.5rem;
+  letter-spacing: -.05rem;
+  line-height: 1.269;
+  color: #ffffff;
+  margin-bottom: 9rem;
+}
 .home-content-left .button.stroke {
   color: #ffffff !important;
   border-color: #ffffff;
@@ -2695,8 +2702,8 @@ footer ul a:visited {
     }
   }
 .img-c {
-  width: 200px;
-  height: 200px;
+  width: 175px;
+  height: 175px;
   float: left;
   position: relative;
   overflow: hidden;
